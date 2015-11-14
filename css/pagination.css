@@ -1,0 +1,12 @@
+.pagination-controls {
+  /* border: 1px solid #ccf; */
+  padding-left: 36px;
+  /* margin: 3px 3px 3px 3px; */
+margin: auto;
+width: 90%;
+}
+
+.search {
+padding: 24px 10px 0px 36px;
+
+}
