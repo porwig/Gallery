@@ -8,6 +8,7 @@ Planned updates include:
  * Add image tags - DONE
  * Define variables for json path, # of thumbnails per page - DONE
  * Simplify pagination controls to Prev, Next
+ * Create dynamic galleries by selecting tags
  * Clean up CSS (middle row thumbnail position, etc)
  * Change data source from json to MySQL
  * FOSS CMS integrations (WordPress, Drupal, Joomla, Grav)
