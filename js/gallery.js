@@ -4,8 +4,9 @@
 // definess angular module, with dependency of pagination code
       galleryApp = angular.module('galleryApp', ['angularUtils.directives.dirPagination']);
 	  // imports data from .json file
-      galleryApp.controller('GalleryCtrl', function ($scope, $http){
-        $http.get('json/items.json').success(function(data) {
+	  galleryApp.controller('GalleryCtrl', function ($scope, $http){
+	  $scope.url = 'json/items.json';
+        $http.get($scope.url).success(function(data) {
           $scope.items = data;
 		  
 // set the current item - using underscore.js library
@@ -18,7 +19,7 @@ $scope.currentItem = item;
 
 // set the start page
 $scope.currentPage = 1;
-// this isn't required, but if it's set here as a parameter (not on the HTML page) then this can define how many rows of thumbnails to display
+// this isn't required, but if it's set here as a parameter then this can define how many rows of thumbnails to display
 // if it's not used here, it can be set in the HTML if the right code is used there
 $scope.pageSize = 3;
 
