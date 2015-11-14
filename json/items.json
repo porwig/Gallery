@@ -1,0 +1,66 @@
+[
+  {
+    "thumbnail": "img/DSC_0512-Edit-t.jpg",
+    "full": "img/DSC_0512-Edit.jpg",
+    "title": "Northern Flicker 1",
+	"caption": "Here is the caption for Northern Flicker 1.",
+	"tags": "red, woodpecker, medium, swoop, bird, Colorado"
+ },
+ {
+    "thumbnail": "img/DSC_0762-t.jpg",
+    "full": "img/DSC_0762.jpg",
+    "title": "House Finch 2",
+	"caption": "Here is the caption for House Finch 2.",
+	"tags": "red, finch, small, flit, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_0847-t.jpg",
+    "full": "img/DSC_0847.jpg",
+    "title": "Barn Swallow 1",
+	"caption": "Here is the caption for Barn Swallow 1.",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+ },
+ {
+    "thumbnail": "img/DSC_1028-t.jpg",
+    "full": "img/DSC_1028.jpg",
+    "title": "Barn Swallow 2",
+	"caption": "Here is the caption for Barn Swallow 2.",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_1114-t.jpg",
+    "full": "img/DSC_1114.jpg",
+    "title": "Black-Billed Magpie 1",
+	"caption": "Here is the caption for Black-Billed Magpie 1.",
+	"tags": "black, magpie, medium, swoop, bird, Colorado"
+ },
+ {
+    "thumbnail": "img/DSC_1451-t.jpg",
+    "full": "img/DSC_1451.jpg",
+    "title": "Red-Tailed Hawk 1",
+	"caption": "Here is the caption for Red-Tailed Hawk 1.",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_2047-t.jpg",
+    "full": "img/DSC_2047.jpg",
+    "title": "Spotted Towhee 1",
+	"caption": "Here is the caption for Spotted Towhee 1.",
+	"tags": "black, songbird, small, swoop, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_2379-t.jpg",
+    "full": "img/DSC_2379.jpg",
+    "title": "Great Horned Owl 2",
+	"caption": "Here is the caption for Great Horned Owl 2.",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_2306-t.jpg",
+    "full": "img/DSC_2306.jpg",
+    "title": "Red-Winged Blackbird 1",
+	"caption": "Here is the caption for Red-Winged Blackbird 1.",
+	"tags": "black, songbird, medium, swoop, bird, Colorado"
+ }
+ ]
+
