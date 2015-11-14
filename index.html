@@ -1,0 +1,70 @@
+<html ng-app="galleryApp">
+<head>
+<meta charset="utf-8">
+<title>AngularJS Image Gallery with Search and Pagination</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
+<!-- This is a utilities library that is used to set the current item -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<!-- Bootstrap requires jQuery so we load this first -->
+<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>  
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>  
+<!-- my code -->
+<script src="js/gallery.js"></script>
+<!-- pagination code -->
+<script src="js/dirPagination.js"></script>
+<link rel="stylesheet" href="css/gallery.css">
+<link rel="stylesheet" href="css/pagination.css">
+</head>
+<body ng-controller="GalleryCtrl">
+<div class="row">
+<div class="col-md-3">
+<div class="search">
+<input ng-model="q" id="search" class="form-control" placeholder="Search this gallery...">
+</div>
+</div>
+
+<div class="col-md-9">
+<h1>{{currentItem.title}}</h1>
+</div>
+</div>
+	
+<div class="row">
+<div class="col-md-3">
+
+<ul id="thumbList">
+		
+	<li dir-paginate="item in items | filter:q | itemsPerPage: pageSize" current-page="currentPage" ng-click="setCurrentItem(item)">
+
+<img ng-src="{{item.thumbnail}}" alt="{{item.title}} thumbnail">
+
+				</li> 
+				
+</ul>
+<div class="row">
+<div class="col-md-12">
+<div class="pagination-controls">
+
+					<dir-pagination-controls boundary-links="true" on-page-change="pageChangeHandler(newPageNumber)" template-url="dirPagination.tpl.html"></dir-pagination-controls>
+
+				</div>
+				</div>
+				</div>
+	</div>
+	
+
+<div class="col-md-9">		
+	<div id="albumItem">
+		<img ng-src="{{currentItem.full}}" alt="{{currentItem.title}}">
+		<p>{{ currentItem.caption }}</p>
+		<p>Tags: {{ currentItem.tags }}</p>
+	</div>
+</div>
+</div>
+</body>
+</html>
+
