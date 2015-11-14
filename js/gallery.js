@@ -8,7 +8,8 @@
 	  $scope.url = 'json/items.json';
         $http.get($scope.url).success(function(data) {
           $scope.items = data;
-		  
+		  $scope.itemCategory = 'bircat';
+		  		  
 // set the current item - using underscore.js library
 $scope.currentItem = _.first($scope.items);
 

@@ -1,8 +1,6 @@
 <html ng-app="galleryApp">
 <head>
 <meta charset="utf-8">
-<!-- Set the base URL to support relative links -->
-<base href="/">
 <title>AngularJS Image Gallery with Search and Pagination</title>
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js"></script>
 <!-- This is a utilities library that is used to set the current item -->
@@ -31,7 +29,7 @@
 </div>
 
 <div class="col-md-9">
-<h1>{{currentItem.title}}</h1>
+<h1>{{currentItem.title}} {{itemCategory}}</h1>
 </div>
 </div>
 	
@@ -40,7 +38,7 @@
 
 <ul id="thumbList">
 		
-	<li dir-paginate="item in items | filter:q | itemsPerPage: pageSize" current-page="currentPage" ng-click="setCurrentItem(item)">
+	<li dir-paginate="item in items | filter: q | itemsPerPage: pageSize" current-page="currentPage" ng-click="setCurrentItem(item)">
 
 <img ng-src="{{item.thumbnail}}" alt="{{item.title}} thumbnail">
 

@@ -4,48 +4,55 @@
     "full": "img/DSC_0512-Edit.jpg",
     "title": "Northern Flicker 1",
 	"caption": "Here is the caption for Northern Flicker 1.",
-	"tags": "red, woodpecker, medium, swoop, bird, Colorado"
+	"category": "birds",
+	"tags": "red, woodpecker, medium, swoop, Colorado"
  },
  {
     "thumbnail": "img/DSC_0762-t.jpg",
     "full": "img/DSC_0762.jpg",
     "title": "House Finch 2",
 	"caption": "Here is the caption for House Finch 2.",
-	"tags": "red, finch, small, flit, bird, Colorado"
+	"category": "birds",
+	"tags": "red, finch, small, flit, Colorado"
   },
   {
     "thumbnail": "img/DSC_0847-t.jpg",
     "full": "img/DSC_0847.jpg",
     "title": "Barn Swallow 1",
 	"caption": "Here is the caption for Barn Swallow 1.",
-	"tags": "brown, swallow, small, swoop, bird, Colorado"
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, Colorado"
  },
  {
     "thumbnail": "img/DSC_1028-t.jpg",
     "full": "img/DSC_1028.jpg",
     "title": "Barn Swallow 2",
 	"caption": "Here is the caption for Barn Swallow 2.",
-	"tags": "brown, swallow, small, swoop, bird, Colorado"
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, Colorado"
   },
   {
     "thumbnail": "img/DSC_1114-t.jpg",
     "full": "img/DSC_1114.jpg",
     "title": "Black-Billed Magpie 1",
 	"caption": "Here is the caption for Black-Billed Magpie 1.",
-	"tags": "black, magpie, medium, swoop, bird, Colorado"
+	"category": "birds",
+	"tags": "black, magpie, medium, swoop, Colorado"
  },
  {
     "thumbnail": "img/DSC_1451-t.jpg",
     "full": "img/DSC_1451.jpg",
     "title": "Red-Tailed Hawk 1",
 	"caption": "Here is the caption for Red-Tailed Hawk 1.",
-	"tags": "brown, raptor, large, soar, bird, Colorado"
+	"category": "bircat",
+	"tags": "brown, raptor, large, soar, Colorado"
   },
   {
     "thumbnail": "img/DSC_2047-t.jpg",
     "full": "img/DSC_2047.jpg",
     "title": "Spotted Towhee 1",
 	"caption": "Here is the caption for Spotted Towhee 1.",
+	"category": "birds",
 	"tags": "black, songbird, small, swoop, bird, Colorado"
   },
  {
@@ -53,6 +60,7 @@
     "full": "img/DSC_2379.jpg",
     "title": "Great Horned Owl 2",
 	"caption": "Here is the caption for Great Horned Owl 2.",
+	"category": "birds",
 	"tags": "brown, swallow, small, swoop, bird, Colorado"
   },
   {
@@ -60,6 +68,7 @@
     "full": "img/DSC_2306.jpg",
     "title": "Red-Winged Blackbird 1",
 	"caption": "Here is the caption for Red-Winged Blackbird 1.",
+	"category": "birds",
 	"tags": "black, songbird, medium, swoop, bird, Colorado"
  }
  ]
