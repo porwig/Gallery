@@ -2,6 +2,7 @@
 This is an AngularJS image gallery that includes search and pagination. It uses the Bootstrap 3 and underscore.js libraries, and pagination code shared by Michael Bromley (http://www.michaelbromley.co.uk/blog/108/paginate-almost-anything-in-angularjs).
 
 Planned updates include:
+ * Add more images
  * Add SEF URLs for each image
  * Add gallery categories
  * Add image tags - DONE
