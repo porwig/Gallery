@@ -1,5 +1,5 @@
 # gallery
-This is and AngularJS image gallery that includes search and pagination. It uses pagination code shared by MIchael Bromley (http://www.michaelbromley.co.uk/blog/108/paginate-almost-anything-in-angularjs).
+This is an AngularJS image gallery that includes search and pagination. It uses pagination code shared by MIchael Bromley (http://www.michaelbromley.co.uk/blog/108/paginate-almost-anything-in-angularjs).
 
 Planned upgrades include:
  * Add SEF URL for each image
