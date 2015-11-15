@@ -3,6 +3,7 @@
     "thumbnail": "img/DSC_0512-Edit-t.jpg",
     "full": "img/DSC_0512-Edit.jpg",
     "title": "Northern Flicker 1",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Northern Flicker 1.",
 	"category": "birds",
 	"tags": "red, woodpecker, medium, swoop, Colorado"
@@ -10,8 +11,9 @@
  {
     "thumbnail": "img/DSC_0762-t.jpg",
     "full": "img/DSC_0762.jpg",
-    "title": "House Finch 2",
-	"caption": "Here is the caption for House Finch 2.",
+    "title": "House Finch 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for House Finch 1.",
 	"category": "birds",
 	"tags": "red, finch, small, flit, Colorado"
   },
@@ -19,6 +21,7 @@
     "thumbnail": "img/DSC_0847-t.jpg",
     "full": "img/DSC_0847.jpg",
     "title": "Barn Swallow 1",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Barn Swallow 1.",
 	"category": "birds",
 	"tags": "brown, swallow, small, swoop, Colorado"
@@ -27,6 +30,7 @@
     "thumbnail": "img/DSC_1028-t.jpg",
     "full": "img/DSC_1028.jpg",
     "title": "Barn Swallow 2",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Barn Swallow 2.",
 	"category": "birds",
 	"tags": "brown, swallow, small, swoop, Colorado"
@@ -35,6 +39,7 @@
     "thumbnail": "img/DSC_1114-t.jpg",
     "full": "img/DSC_1114.jpg",
     "title": "Black-Billed Magpie 1",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Black-Billed Magpie 1.",
 	"category": "birds",
 	"tags": "black, magpie, medium, swoop, Colorado"
@@ -43,14 +48,16 @@
     "thumbnail": "img/DSC_1451-t.jpg",
     "full": "img/DSC_1451.jpg",
     "title": "Red-Tailed Hawk 1",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Red-Tailed Hawk 1.",
-	"category": "bircat",
+	"category": "birds",
 	"tags": "brown, raptor, large, soar, Colorado"
   },
   {
     "thumbnail": "img/DSC_2047-t.jpg",
     "full": "img/DSC_2047.jpg",
     "title": "Spotted Towhee 1",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Spotted Towhee 1.",
 	"category": "birds",
 	"tags": "black, songbird, small, swoop, bird, Colorado"
@@ -58,18 +65,315 @@
  {
     "thumbnail": "img/DSC_2379-t.jpg",
     "full": "img/DSC_2379.jpg",
-    "title": "Great Horned Owl 2",
+    "title": "Great Horned Owl 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 1.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_2410-t.jpg",
+    "full": "img/DSC_2410.jpg",
+    "title": "Mallard 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Mallard 1.",
+	"category": "birds",
+	"tags": "green, swim, medium, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_2518-t.jpg",
+    "full": "img/DSC_2518.jpg",
+    "title": "American Kestrel 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for American Kestrel 1.",
+	"category": "birds",
+	"tags": "brown, raptor, hover, small, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_2543-t.jpg",
+    "full": "img/DSC_2543.jpg",
+    "title": "Red-tailed Hawk 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Red-tailed Hawk 2.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_2658-t.jpg",
+    "full": "img/DSC_2658.jpg",
+    "title": "American Kestrel 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for American Kestrel 2.",
+	"category": "birds",
+	"tags": "brown, raptor, hover, small, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_3168-t.jpg",
+    "full": "img/DSC_3168.jpg",
+    "title": "Western-scrub Jay 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Western-scrub Jay 1.",
+	"category": "birds",
+	"tags": "blue, swoop, small, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_3369-t.jpg",
+    "full": "img/DSC_3369.jpg",
+    "title": "Red-tailed Hawk 3",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Red-tailed Hawk 3.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_3427-t.jpg",
+    "full": "img/DSC_3427-11x14.jpg",
+    "title": "Red-tailed Hawk 4",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Red-tailed Hawk 4.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_3496-t.jpg",
+    "full": "img/DSC_3496.jpg",
+    "title": "Black-billed Magpie 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Black-billed Magpie 2.",
+	"category": "birds",
+	"tags": "black, swoop, small, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_3646-t.jpg",
+    "full": "img/DSC_3646.jpg",
+    "title": "American Robin 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for American Robin 1.",
+	"category": "birds",
+	"tags": "orange, swoop, small, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_4099-t.jpg",
+    "full": "img/DSC_4099.jpg",
+   "title": "Red-tailed Hawk 5",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Red-tailed Hawk 5.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_4649-t.jpg",
+    "full": "img/DSC_4649.jpg",
+    "title": "Red-tailed Hawk 6",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Red-tailed Hawk 6.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_5202-t.jpg",
+    "full": "img/DSC_5202.jpg",
+    "title": "Red-tailed Hawk 7",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Red-tailed Hawk 7.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_5334-8-t.jpg",
+    "full": "img/DSC_5334-8.jpg",
+    "title": "Northern Flicker 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Northern Flicker 2.",
+	"category": "birds",
+	"tags": "red, woodpecker, medium, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_6088-t.jpg",
+    "full": "img/DSC_6088.jpg",
+    "title": "Mallard 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Mallard 2.",
+	"category": "birds",
+	"tags": "green, swim, medium, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_6472-t.jpg",
+    "full": "img/DSC_6472.jpg",
+    "title": "Mallard 3",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Mallard 3.",
+	"category": "birds",
+	"tags": "green, swim, medium, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_9353-t.jpg",
+    "full": "img/DSC_9353.jpg",
+   "title": "Mallard 4",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Mallard 4.",
+	"category": "birds",
+	"tags": "green, swim, medium, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_6547-t.jpg",
+    "full": "img/DSC_6547.jpg",
+    "title": "Swainson's Hawk 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Swainson's Hawk 1.",
+	"category": "birds",
+	"tags": "brown, raptor, large, soar, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_7763-t.jpg",
+    "full": "img/DSC_7763.jpg",
+     "title": "American Kestrel 3",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for American Kestrel 3.",
+	"category": "birds",
+	"tags": "brown, raptor, hover, small, bird, Colorado"
+  },
+ {
+    "thumbnail": "img/DSC_9017-t.jpg",
+    "full": "img/DSC_9017.jpg",
+    "title": "Western-scrub Jay 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Western-scrub Jay 2.",
+	"category": "birds",
+	"tags": "blue, swoop, small, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_9115-t.jpg",
+    "full": "img/DSC_9115.jpg",
+    "title": "Say's Phoebe 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Say's Phoebe 1.",
+	"category": "birds",
+	"tags": "brown, small, flit, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_8216-t.jpg",
+    "full": "img/DSC_8216.jpg",
+    "title": "House Finch 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for House Finch 2.",
+	"category": "birds",
+	"tags": "red, finch, small, flit, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_9864-t.jpg",
+    "full": "img/DSC_9864.jpg",
+    "title": "Spotted Towhee 2",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Spotted Towhee 2.",
+	"category": "birds",
+	"tags": "black, songbird, small, swoop, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_0832-t.jpg",
+    "full": "img/DSC_0832.jpg",
+     "title": "Great Horned Owl 2",
+	"artist": "Paul Orwig",
 	"caption": "Here is the caption for Great Horned Owl 2.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_2541-t.jpg",
+    "full": "img/DSC_2541.jpg",
+     "title": "Great Horned Owl 3",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 3.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_3426-t.jpg",
+    "full": "img/DSC_3426.jpg",
+     "title": "Great Horned Owl 4",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 4.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_3857-t.jpg",
+    "full": "img/DSC_3857.jpg",
+     "title": "Great Horned Owl 5",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 5.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_4297-t.jpg",
+    "full": "img/DSC_4297.jpg",
+     "title": "Great Horned Owl 6",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 6.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_4602-t.jpg",
+    "full": "img/DSC_4602.jpg",
+     "title": "Great Horned Owl 7",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 7.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_4785-t.jpg",
+    "full": "img/DSC_4785.jpg",
+     "title": "Great Horned Owl 8",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 8.",
+	"category": "birds",
+	"tags": "brown, swallow, small, swoop, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_7800-t.jpg",
+    "full": "img/DSC_7800.jpg",
+    "title": "Western-scrub Jay 3",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Western-scrub Jay 3.",
+	"category": "birds",
+	"tags": "blue, swoop, small, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_8636-t.jpg",
+    "full": "img/DSC_8636.jpg",
+    "title": "Red-Winged Blackbird 1",
+	"caption": "Here is the caption for Red-Winged Blackbird 1.",
+	"category": "birds",
+	"tags": "black, songbird, medium, swoop, bird, Colorado"
+  },
+  {
+    "thumbnail": "img/DSC_5161-t.jpg",
+    "full": "img/DSC_5161.jpg",
+    "title": "Western Wood-Pewee 1",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Western Wood-Pewee 1.",
+	"category": "birds",
+	"tags": "brown, swoop, small, bird, Colorado"
+  },
+   {
+    "thumbnail": "img/DSC_6636-t.jpg",
+    "full": "img/DSC_6636.jpg",
+    "title": "Great Horned Owl 9",
+	"artist": "Paul Orwig",
+	"caption": "Here is the caption for Great Horned Owl 9.",
 	"category": "birds",
 	"tags": "brown, swallow, small, swoop, bird, Colorado"
   },
   {
     "thumbnail": "img/DSC_2306-t.jpg",
     "full": "img/DSC_2306.jpg",
-    "title": "Red-Winged Blackbird 1",
-	"caption": "Here is the caption for Red-Winged Blackbird 1.",
+    "title": "Red-Winged Blackbird 2",
+	"caption": "Here is the caption for Red-Winged Blackbird 2.",
 	"category": "birds",
 	"tags": "black, songbird, medium, swoop, bird, Colorado"
- }
+  }
  ]
 
