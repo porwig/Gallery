@@ -1,5 +1,5 @@
 <div class="previous-next" align="center">
-<div class="range-label">Images {{ range.lower }}-{{ range.upper }} (of {{ range.total }} total)</div>
+<div class="range-label">Images {{ range.lower }}-{{ range.upper }} of {{ range.total }}</div>
 <span class="previous"><a href="" title="Previous page" ng-class="{ disabled : pagination.current == 1 }" ng-click="setCurrent(pagination.current - 1)">&lsaquo; Previous</a></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <span class="next"><a href="" title="Next page"  ng-class="{ disabled : pagination.current == pagination.last }" ng-click="setCurrent(pagination.current + 1)">Next &rsaquo;</a></span>
