@@ -9,6 +9,7 @@ Planned updates include:
  * Define variables for json path, # of thumbnails per page - DONE
  * Simplify pagination controls to Previous & Next links - DONE
  * Clean up CSS (thumbnail spacing, Previous & Next links, etc)
+ * Add category list view
  * Change data source from json to MySQL
  * FOSS CMS integrations (Grav, WordPress, Drupal, Joomla)
  * Add more layouts
