@@ -12,5 +12,6 @@ V2+ updates include:
  * Add more layouts
  * Add social sharing buttons
  * Create dynamic galleries by selecting tags
+ * High resolution images for supported devices (Retina)
 
 
