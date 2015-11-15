@@ -3,7 +3,7 @@ This is an AngularJS image gallery that includes search and pagination. It uses 
 
 V1 updates include:
  * Add unique SEF URLs for each image - need to test for duplicates
- * Clean up CSS (thumbnail spacing, Previous & Next links, etc)
+ * Clean up CSS (thumbnail spacing, Previous & Next links, captions, etc)
  * Add category list view
  
 V2+ updates include: 
