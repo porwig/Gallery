@@ -3,14 +3,15 @@ This is an AngularJS image gallery that includes search and pagination. It uses 
 
 Planned updates include:
  * Add more images (for test purposes)
- * Add SEF URLs for each image
+ * Add unique SEF URLs for each image - need to test for duplicates
  * Add gallery categories
  * Add image tags - DONE
  * Define variables for json path, # of thumbnails per page - DONE
  * Simplify pagination controls to Prev, Next
  * Create dynamic galleries by selecting tags
  * Clean up CSS (middle row thumbnail position, etc)
+ * Add more layouts
  * Change data source from json to MySQL
- * FOSS CMS integrations (WordPress, Drupal, Joomla, Grav)
+ * FOSS CMS integrations (Grav, WordPress, Drupal, Joomla)
 
 
