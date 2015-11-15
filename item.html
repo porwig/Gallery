@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="css/gallery.css">
 <link rel="stylesheet" href="css/pagination.css">
 </head>
-<body ng-controller="GalleryCtrl">
+<body ng-controller="ItemCtrl">
 <div class="row">
 <div class="col-md-3">
 <div class="search">
@@ -60,8 +60,8 @@
 <div class="col-md-9">		
 	<div id="albumItem">
 		<img ng-src="{{currentItem.full}}" alt="{{currentItem.title}}">
-		<p>{{ currentItem.caption }}</p>
-		<p>Tags: {{ currentItem.tags }}</p>
+		<p>{{currentItem.caption}}</p>
+		<p>Tags: {{currentItem.tags}}</p>
 	</div>
 </div>
 </div>

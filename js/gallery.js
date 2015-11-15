@@ -4,7 +4,7 @@
 // definess angular module, with dependency of pagination code
       galleryApp = angular.module('galleryApp', ['angularUtils.directives.dirPagination']);
 	  // imports data from .json file
-	  galleryApp.controller('GalleryCtrl', function ($scope, $http){
+	  galleryApp.controller('ItemCtrl', function ($scope, $http){
 	  $scope.url = 'json/items.json';
         $http.get($scope.url).success(function(data) {
           $scope.items = data;
