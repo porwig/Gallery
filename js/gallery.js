@@ -8,8 +8,7 @@
 	  $scope.url = 'json/items.json';
         $http.get($scope.url).success(function(data) {
           $scope.items = data;
-		  $scope.itemCategory = 'bircat';
-		  		  
+		  		  		  
 // set the current item - using underscore.js library
 $scope.currentItem = _.first($scope.items);
 
@@ -23,6 +22,8 @@ $scope.currentPage = 1;
 // this isn't required, but if it's set here as a parameter then this can define how many rows of thumbnails to display
 // if it's not used here, it can be set in the HTML if the right code is used there
 $scope.pageSize = 3;
+// should see if I can pass this variable from a category list view, in a url or other way
+$scope.thisCategory = 'birds';
 
 });
 });

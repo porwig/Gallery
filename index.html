@@ -38,7 +38,7 @@
 
 <ul id="thumbList">
 		
-	<li dir-paginate="item in items | filter: q | itemsPerPage: pageSize" current-page="currentPage" ng-click="setCurrentItem(item)">
+	<li dir-paginate="item in items | filter: q | filter: thisCategory | itemsPerPage: pageSize" current-page="currentPage" ng-click="setCurrentItem(item)">
 
 <img ng-src="{{item.thumbnail}}" alt="{{item.title}} thumbnail">
 
