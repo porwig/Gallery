@@ -7,7 +7,7 @@ Planned updates include:
  * Add gallery categories
  * Add image tags - DONE
  * Define variables for json path, # of thumbnails per page - DONE
- * Simplify pagination controls to Prev, Next - DONE
+ * Simplify pagination controls to Prev, Next - DONE (could still improve CSS)
  * Create dynamic galleries by selecting tags
  * Clean up CSS (middle row thumbnail position, etc)
  * Add more layouts
