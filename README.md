@@ -12,6 +12,7 @@ Planned updates include:
  * Change data source from json to MySQL
  * FOSS CMS integrations (Grav, WordPress, Drupal, Joomla)
  * Add more layouts
+ * Add social sharing buttons
  * Create dynamic galleries by selecting tags
 
 
